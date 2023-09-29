@@ -1,0 +1,500 @@
+   41  cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+   42  git checkout main
+   43  git checkout main
+   44  cd ..
+   45  git clone https://github.com/Umuzi-org/Paseka-Mogoto-219-level-1-programming-katas-javascript.git
+   46  ls
+   47  cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+   48  git checkout main
+   49  git pull
+   50  git checkout task/1
+   51  nano task1.js
+   52  git status
+   53  git add task1.js
+   54  git commit -m"submiting task1"
+   55  git push
+   56  git checkout main
+   57  git pull
+   58  git checkout task/2
+   59  nano task2.js
+   60  git status
+   61  git add task2.js
+   62  git commit -m"submiting the changes made"
+   63  git push
+   64  git checkout main
+   65  git pull
+   66  git checkout task/4
+   67  nano task4.js
+   68  git status
+   69  git add task4.js
+   70  git commit -m"submiting my task4 changes"
+   71  git push
+   72  git checkout main
+   73  git pull
+   74  git checkout task/5
+   75  nano task5.js
+   76  git status
+   77  git add task5.js
+   78  git commit -m"submiting my changes for task 5"
+   79  git push
+   80  git checkout main
+   81  git pull
+   82  git checkout task/6
+   83  nano task6.js
+   84  git status
+   85  git add task6.js
+   86  git commit -m"submiting the changes made"
+   87  git push
+   88  git checkout main
+   89  git pull
+   90  git branch task7.js
+   91  git checkout task/7
+   92  git branch
+   93  git branch/7
+   94  git branch task/7
+   95  git checkout task/7
+   96  touch task7.js
+   97  git status
+   98  git status
+   99  git add task7.js
+  100  git commit -m"submission for  task 7 "
+  101  git push
+  102  cd ..
+  103  git clone https://github.com/Umuzi-org/Paseka-Mogoto-223-person-javascript.git
+  104  ls 
+  105  cd Paseka-Mogoto-223-person-javascript
+  106  mdir person.js
+  107  git pull
+  108  mkdir person.js
+  109  nano person.js
+  110  cd person.js
+  111  touch objectclass.js
+  112  git status
+  113  git status
+  114  git add objectclass.js
+  115  git status
+  116  git commit -m"submiting"
+  117  git push
+  118  git checkout main 
+  119  git checkout task/2
+  120  git branch
+  121  cd ..
+  122  ls
+  123  cd ..
+  124  ls
+  125  cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+  126  git checkout main
+  127  git pull
+  128  git checkout task/2
+  129  git add task7.js
+  130  git commit -m"saving the changes"
+  131  git checkout main
+  132  git pull
+  133  git checkout task/2
+  134  nano task2.js
+  135  git status
+  136  git add task2.js
+  137  git commit -m"submition for task2"
+  138  git push
+  139  git checkout main
+  140  git pull
+  141  git checkout task/5
+  142  nano task5.js
+  143  git status
+  144  git add task5.js
+  145  git commit -m"submiting my task 5 changes"
+  146  git push
+  147  git checkout main
+  148  git pull
+  149  git checkout task/6
+  150  nano task6.js
+  151  git status
+  152  git add task6.js
+  153  git commit -m"submiting task6 changes"
+  154  git push
+  155  git checkout main
+  156  git pull
+  157  git checkout task/6
+  158  nano task6.js
+  159  git status
+  160  git push
+  161  git pull
+  162  nano task6.js
+  163  git push
+  164  rm -r git-basic-exercises
+  165  ls /
+  166  ls /
+  167  ls /
+  168  git status
+  169  git add task6.js
+  170  git commit -m"submiting"
+  171  git push
+  172  git pull
+  173  git status
+  174  git checkout task6/6
+  175  git checkout task/6
+  176  cd ..
+  177  mkdir git-basic-exersie
+  178  mkdir git-basic-exercises
+  179  cd git-basic-exercise
+  180  cd git-basic-exercises
+  181  ls -a
+  182  git init
+  183  ls -a
+  184  git status
+  185  touch README.md
+  186  ls -a
+  187  git status
+  188  git add README.md
+  189  git log
+  190  git reset -- README.md
+  191  git status
+  192  git add README.md
+  193  git commit -m"intial commit"
+  194  git log
+  195  nano README.md
+  196  cat README.md
+  197  nano README.md
+  198  git status
+  199  git add README.md
+  200  git status
+  201  git add README.md
+  202  git status
+  203  git commit -m"second commit"
+  204  nano README.md
+  205  git status
+  206  git add README.md
+  207  git commit -m"third commit"
+  208  git log
+  209  q
+  210  git checkout 6f2ad442e989498b3db7a92eca77cde925e4c875
+  211  cat README.md
+  212  git checkout main
+  213  git checkout main
+  214  git checkout master
+  215  git README.md
+  216  cat README.md
+  217  git branch
+  218  git branch milkshake-flavours
+  219  git branch
+  220  git checkout milkshake-flavours
+  221  nano milkshake.md
+  222  git status
+  223  git add milkshake.md
+  224  git status
+  225  git commit -m"added intial flavours"
+  226  git log
+  227  q
+  228  git checkout master
+  229  git branch history
+  230  git checkout history
+  231  git log
+  232  history > history.txt
+  233  ls -a
+  234  git status
+  235  git add history.txt
+  236  git commit -m"added history"
+  237  git log
+  238  git branch
+  239  git checkout milkshake-flavours
+  240  git log
+  241  q
+  242  nano README.md
+  243  git status
+  244  git add README.md
+  245  git commit -m"random readme changes"
+  246  git checkout history
+  247  cat README.md
+  248  rm README.md
+  249  echo "booya" >README.md
+  250  git status
+  251  git add README.md
+  252  git commit -m"rewrote readme"
+  253  git checkout master
+  254  ls
+  255  git log
+  256  git checkout milkshake-flavours
+  257  ls
+  258  git log
+  259  git checkout history
+  260  ls
+  261  git log
+  262  git checkout main
+  263  git checkout master
+  264  git merge milkshake-flavours
+  265  ls
+  266  git log
+  267  git merge history
+  268  ls
+  269  git checkout history
+  270  git log
+  271  git checkout milkshake-flavours
+  272  git log
+  273  git checkout history
+  274  git merge merge master
+  275  git checkout master
+  276  git checkout history
+  277  rm README.md
+  278  git checkout history
+  279  pwd
+  280  ls
+  281  git checkout master
+  282  git merge history
+  283  ls
+  284  git remote add origin https://github.com/Paseka100/git-basic-exercises.git
+  285  git branch -M main
+  286  git push -u origin main
+  287  git pull
+  288  git add history.txt
+  289  git status
+  290  git commit -m"adding"
+  291  git checkout history
+  292  git checkout milkshake-flavours
+  293  cat README.md
+  294  git checkout main
+  295  git log
+  296  git checkout  6f2ad442e989498b3db7a92eca77cde925e4c875
+  297  nano README.md
+  298  cat README.md
+  299  git add README.md
+  300  git commit -m"merging conflict"
+  301  git checkout milkshake-flavours
+  302  git push
+  303  git pull
+  304  git checkout master
+  305  git checkout main
+  306  git pull
+  307  git branch history
+  308  git merge history
+  309  git push
+  310  git checkout history
+  311  git push
+  312  cd ../
+  313  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  314  ls
+  315  ls -a
+  316  cd a-repo-to-clone
+  317  git branch
+  318  git log
+  319  git branch -a
+  320  git checkout a-branch-with-few-commits
+  321  git branch-a
+  322  git branch -a
+  323  git fetch
+  324  git checkout -b a-branch-with-a-few-commits remote-a-branch-with-few-commits
+  325  git checkout -b local-a-branch-with-a-few-commits remote-a-branch-with-few-commits
+  326  git checkout -b my-feature origin/a-branch-with-a-few-comits
+  327  cd ..
+  328  git clone https://github.com/Umuzi-org/Paseka-Mogoto-219-level-1-programming-katas-javascript.git
+  329  ls
+  330   cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+  331  git pull
+  332  $ git pull
+  333  error: Pulling is not possible because you have unmerged files.
+  334  hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+  335  hint: as appropriate to mark resolution and make a commit.
+  336  git status
+  337  nano task6.js
+  338  nano task6.js
+  339  git push
+  340  git status
+  341  nano task6.js
+  342  git add task6.js
+  343  git commit -m"task6 submission"
+  344  git push
+  345  git checkout main
+  346  git pull
+  347  git checkout task/7
+  348  nano task7.js
+  349  nano task7.js
+  350  git add task6.js
+  351  git add task7.js
+  352  git commit -m"submiting task7 file"
+  353  git push
+  354  git pull origin task/7
+  355  ls
+  356   cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+  357  git checkout main
+  358  git pull
+  359  git checkout task/7
+  360  nano task7.js
+  361  nano task7.js
+  362  git status
+  363  git add task7.js
+  364  git commit -m"submiting task7 changes"
+  365  git push
+  366  cd ..
+  367  ls
+  368   cd Paseka-Mogoto-223-person-javascript/
+  369  git pull
+  370  ls
+  371  rm -r person.js
+  372  ls
+  373  rm - r README.md
+  374  nano README.md
+  375  git branch person.js
+  376  git branch
+  377  git checkout person.js
+  378  git init
+  379  nano person.js
+  380  cd ..
+  381  mkdir git-basic-exercises
+  382  cd git-basic-exercises
+  383  ls -a
+  384  git init
+  385  ls -a
+  386  git status
+  387  touch README.md
+  388  ls-a
+  389  ls -a
+  390  git status
+  391  git log
+  392  git add README.md
+  393  git status
+  394  git commit -m"intial commit"
+  395  git log
+  396  nano README.md
+  397  cat README.md
+  398  git status
+  399  git add README.md
+  400  git committ -m"second commit"
+  401  git commit -m"second commit"
+  402  nano README.md
+  403  git status
+  404  git add README.md
+  405  git commit -m"third commit"
+  406  git log
+  407  git checkout 8c524919aa8097976efaf141744c03d063d6647d
+  408  q
+  409  git checkout 8c524919aa8097976efaf141744c03d063d6647d
+  410  cat README.md
+  411  git checkout main
+  412  git checkout main
+  413  git checkout master
+  414  cat README.md
+  415  git branch
+  416  git branch milkshake-flavours
+  417  git branch
+  418  git checkout milkshake-flavours
+  419  nano milkshake-flavours
+  420  git status
+  421  git add milkshake-flavours
+  422  git commit -m"added flavours"
+  423  git log
+  424  git checkout master
+  425  git branch history
+  426  git branch
+  427  git checkout history
+  428  git log
+  429  history > history.txt
+  430  git status
+  431  git add history.txt
+  432  git commit -m"added history"
+  433  git log
+  434  git checkout master
+  435  nano README.md
+  436  git addd README.nd
+  437  git addd README.md
+  438  git add README.md
+  439  git commit -m"random readme changes"
+  440  git checkout history
+  441  cat README.md
+  442  rm README.md
+  443  echo "booya" > README.md
+  444  git status
+  445  git add README.md
+  446  git commit -m"rewrote readme"
+  447  git checkout main
+  448  git checkout master
+  449  ls
+  450  cat README.md
+  451  git log
+  452  git reset --hard HEAD~1
+  453  git log
+  454  git checkout milkshake-flavours
+  455  ls
+  456  git log
+  457  nano README.md
+  458  git add README.md
+  459  git commit -m"randome readme changes"
+  460  git log
+  461  git checkout history
+  462  ls
+  463  git log
+  464  git checkout master
+  465  git merge milkshake-flavours
+  466  ls
+  467  git log
+  468  git checkout history
+  469  git log
+  470  git checkout history
+  471  git merge master
+  472  git log
+  473  git status
+  474  nano README.md
+  475  git add README.md
+  476  git status
+  477  git commit -m"merging conflict"
+  478  git merge --continue
+  479  git merge master
+  480  git remote add origin https://github.com/Paseka100/git-basic-exersises.git
+  481  git branch -M main
+  482  git push -u origin main
+  483  git push
+  484  ls
+  485  cd ..
+  486  ls
+  487  ls -a
+  488  cd Paseka-Mogoto-219-level-1-programming-katas-javascript
+  489  git checkout main
+  490  git pull
+  491  git checkout task/7
+  492  git status
+  493  git add task7.js
+  494  git status
+  495  git commit-m"removal  of jstring"
+  496  git push
+  497  git status
+  498  git commit -m"task7"
+  499  git status
+  500  git push
+  501  ls
+  502  cd  Paseka-Mogoto-219-level-1-programming-katas-javascript
+  503  git checkout main
+  504  git pull
+  505  git checkout task/7
+  506  nano task7.js
+  507  cd ..
+  508  mkdir git-basic-exercises
+  509  git init
+  510  ls
+  511  cd git-basic-exerises
+  512  cd git-basic-exercises
+  513  ls
+  514  git init
+  515  touch README.md
+  516  git add README.md
+  517  git commit -m"intial commit"
+  518  git log
+  519  nano README.md
+  520  git add README.md
+  521  git commit -m"second commit"
+  522  git log
+  523  q
+  524  nano README.md
+  525  git add README.md
+  526  git commit -m"third commit"
+  527  git log
+  528  git branch milkshake-flavours
+  529  git branch
+  530  git checkout milkshake-flavours
+  531  nano milkshake.md
+  532  git add milkshake.md
+  533  git commit -m"added intial flavours"
+  534  git log
+  535  git checkout master
+  536  git log
+  537  git branch history
+  538  git checkout history
+  539  git log
+  540  history > history.txt
